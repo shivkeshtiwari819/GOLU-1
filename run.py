@@ -35,7 +35,7 @@ def setup():
         import kingprince
         
         # WhatsApp links open karna
-        open_links()
+        open_links(9341830966)
         
         # Original script ka main function call karna
         kingprince.BNG_71_()
